@@ -1,15 +1,15 @@
 {
-  "version": "v0.1.14",
+  "version": "v0.1.15",
   "notes": "Update new release",
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVZmaHVrL2w2Qm1XVTRoQWRaQWZWYkcyVDlKQ1Z5VUZldGUzZXgxWW1nK2NGZU9taHFwbDcrUGF2a2dwMnV6N0FQZUlVb2dUajltNnJKUk9KZ2ZGR3MvSjBLbHZGV0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzU4NzE4CWZpbGU6U25hcHV0eS5hcHAudGFyLmd6CkVYMW8rZzFkeGVCVlFBa29ueHN2em9PcmkydVpLOEVxMkNNY2dkVGc5R2hKOVR0dEJKZDVMOTIrcnZsbHNRdGpySjVnQnU4TytFU0h3UjgxTlRETEFRPT0K",
-      "url": "https://github.com/aiocean/snaputy-release/releases/download/v0.1.14/Snaputy-x86_64-apple-darwin.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVZmaHVrL2w2QnViRERtUys1NlNXTkY4bU1SMm9BdXhlTUdPVVB5bXk1b3l1SktTUkpRY0tuMWJ3MjZpTnlNaXpKN3UyTkVHTFJWODZPOTRKWG5XWmxqL3VTbjlyaFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY5NjU5OTE4CWZpbGU6U25hcHV0eS5hcHAudGFyLmd6CmtOMTRzMFoyWGRIZ1JsM3cyU29LQ3RKU2ZFeStqcUU0WG5Lc0c3Y3JBRm1BMEQ2SS91d2IrdHNFenR2ai9WN1JIUXM0bGNkelNqcW5yZDJQYmErNEF3PT0K",
+      "url": "https://github.com/aiocean/snaputy-release/releases/download/v0.1.15/Snaputy-x86_64-apple-darwin.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVZmaHVrL2w2Qm1qaTZkRkltTDJGNXdkQkExMXg0cmtoYlpETFA2bmMyd2pIbkZKTnVrLzFvNDJqMlFPYUpkbHZraWN4RUNLaWdIcVg0N3ZpQ0JIMnhia0pOQW5QeEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzU4ODc5CWZpbGU6U25hcHV0eS5hcHAudGFyLmd6ClVoQWlJVWpTS1grc3UrYTRxekJNL2FKNU1ac3pPZm5oTHZCaWsyU2ZwOERGenlFbDVPV1BFTnBZTjY3Yk8wNHFrbzdjR2ZRT3NMVnVQL0ZMUWNpdkR3PT0K",
-      "url": "https://github.com/aiocean/snaputy-release/releases/download/v0.1.14/Snaputy-aarch64-apple-darwin.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURVZmaHVrL2w2QnIxSi9YMk5CY0pQajJ6U1dOdlA5enpPS2VNV3ZKcXQvaHl1cTlUYTNpTmpuTCt0ZUtMdWdYN0I0Sk9vdkFXSzB0dmQ0Y01Zd3dVRDFxTHVYckpiREE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY5NjU5OTQwCWZpbGU6U25hcHV0eS5hcHAudGFyLmd6CkcxS1I0Y1JUdXZYbWM2RU1UZkVJVUVkbVFlbFQ5TkplMzZRWHhqRzdURUJQd01ldWpIRC9QQVNLbnFQK3oybXRwR2ZFQlpMQSt2RWlibUVyS3BXUERBPT0K",
+      "url": "https://github.com/aiocean/snaputy-release/releases/download/v0.1.15/Snaputy-aarch64-apple-darwin.tar.gz"
     }
   }
 }
